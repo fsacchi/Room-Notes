@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <string name="title_list_note">Meu bloco de notas</string>
+    <string name="title_quantity_note">Total de Notas: %d</string>
+    <string name="back">Voltar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="add">Adicionar</string>
+    <string name="done">Gravar</string>
+    <string name="title">Título</string>
+    <string name="placeholder_title">Informe o título da nota</string>
+    <string name="note">Nota</string>
+    <string name="placeholder_note">Escreva aqui sua nota</string>
+    <string name="error_required_fields">Preencha todos os campos para gravar a nota</string>
+    <string name="warning">Atenção</string>
+    <string name="ok">OK</string>
+
+</resources>
